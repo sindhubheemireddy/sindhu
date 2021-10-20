@@ -1,0 +1,14 @@
+.MuiListItem-root.done {
+    text-decoration: line-through;
+    color: rgba(0, 0, 0, 0.48);
+  }
+  
+  .MuiListItem-root.important .label span {
+    color: steelblue;
+    font-weight: bold;
+  }
+  
+  .MuiButtonBase-root.MuiButton-containedSecondary {
+    margin-right: 5px;
+  }
+  

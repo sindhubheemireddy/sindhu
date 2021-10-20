@@ -1,0 +1,16 @@
+.MuiFormControl-root {
+    width: 100%;
+  }
+  
+  #my-helper-text {
+    margin-bottom: 15px;
+    margin-top: 10px;
+  }
+  
+  .MuiButtonBase-root.btn-submit {
+    max-width: 280px;
+    margin: 0 auto;
+    width: 100%;
+    margin-bottom: 50px;
+  }
+  
